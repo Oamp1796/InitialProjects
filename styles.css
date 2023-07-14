@@ -5,14 +5,30 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #2F4550;
   color: #fff;
   padding: 20px;
   text-align: center;
 }
 
 section {
+  background-color: #cedce6;
+  color: #000000;
   padding: 50px;
+}
+
+.hero{
+  background-size: cover;
+  color: #00026bdc;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
 }
 
 h2 {
@@ -24,8 +40,23 @@ h2 {
 }
 
 footer {
-  background-color: #333;
+  background-color: #2F4550;
   color: #fff;
   padding: 20px;
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #333;
+}
+
+  
